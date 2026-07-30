@@ -68,11 +68,25 @@ A futuristic space-themed developer portfolio built using:
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sujan-Nepal&show_icons=true&theme=tokyonight&hide_border=true" />
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=Sujan-Nepal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  alt="Suzzan's GitHub statistics"
+/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujan-Nepal&theme=tokyonight&hide_border=true" />
+<img
+  width="48%"
+  src="https://streak-stats.demolab.com?user=Sujan-Nepal&theme=tokyonight&hide_border=true"
+  alt="Suzzan's GitHub streak"
+/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Nepal&layout=compact&theme=tokyonight&hide_border=true" />
+<br>
+
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Nepal&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  alt="Suzzan's most used languages"
+/>
 
 </div>
 
@@ -85,8 +99,8 @@ A futuristic space-themed developer portfolio built using:
 <img src="https://komarev.com/ghpvc/?username=Sujan-Nepal&style=for-the-badge&color=blueviolet">
 
 </div>
----
 
+---
 <h2 align="center">🐍 My Contribution Snake</h2>
 
 <p align="center">
