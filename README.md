@@ -85,3 +85,23 @@ A futuristic space-themed developer portfolio built using:
 <img src="https://komarev.com/ghpvc/?username=Sujan-Nepal&style=for-the-badge&color=blueviolet">
 
 </div>
+---
+
+<h2 align="center">🐍 My Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Sujan-Nepal/Sujan-Nepal/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Sujan-Nepal/Sujan-Nepal/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/Sujan-Nepal/Sujan-Nepal/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
