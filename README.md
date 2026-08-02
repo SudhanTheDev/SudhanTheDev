@@ -2,15 +2,16 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20&text=SUDHAN%20BHATTARAI&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Photographer%20%E2%80%A2%20BIT%20Student&descAlignY=58&descSize=17&animation=fadeIn" alt="Sudhan Bhattarai GitHub Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=gradient&customColorList=6,11,20&text=SUDHAN%20BHATTARAI&fontSize=49&fontColor=ffffff&fontAlignY=36&desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Photographer%20%E2%80%A2%20BIT%20Student&descAlignY=58&descSize=17&animation=fadeIn" alt="Sudhan Bhattarai GitHub Header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=950&lines=Welcome+to+my+GitHub+universe+%F0%9F%8C%8C;I+build+modern+and+interactive+digital+experiences+%F0%9F%9A%80;Developer+%E2%80%A2+Designer+%E2%80%A2+Photographer+%E2%80%A2+Student;Exploring+AI+agents%2C+automation+and+futuristic+interfaces+%F0%9F%A4%96;Learning%2C+building+and+improving+every+day+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=980&lines=Welcome+to+my+GitHub+universe+%F0%9F%8C%8C;I+build+modern+websites%2C+desktop+apps+and+AI+experiences+%F0%9F%9A%80;Developer+%E2%80%A2+Designer+%E2%80%A2+Photographer+%E2%80%A2+Creator;Exploring+AI+agents%2C+cybersecurity+and+ethical+hacking+%F0%9F%A4%96;Available+for+projects%2C+freelancing+and+collaboration+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br>
 
 [![Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sudhanb.com.np)
-[![GitHub](https://img.shields.io/badge/GITHUB-Sujan--Nepal-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujan-Nepal)
-[![Repositories](https://img.shields.io/badge/EXPLORE_MY_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujan-Nepal?tab=repositories)
+[![Projects](https://img.shields.io/badge/EXPLORE_MY_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujan-Nepal?tab=repositories)
+[![Hire Me](https://img.shields.io/badge/AVAILABLE_FOR_FREELANCE-10B981?style=for-the-badge&logo=upwork&logoColor=white)](mailto:sudhanbhattarai2006@gmail.com)
+[![Contact](https://img.shields.io/badge/CONTACT_ME-F59E0B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhanbhattarai2006@gmail.com)
 
 <br>
 
@@ -22,61 +23,103 @@
 
 ---
 
+## ⚡ Quick Highlights
+
+<div align="center">
+
+| 🚀 Projects | 🎨 Designs | 💻 Technologies | ⏳ Learning Hours | 🤝 Availability |
+|:---:|:---:|:---:|:---:|:---:|
+| **25+** | **100+** | **20+** | **1000+** | **Open to Work** |
+
+</div>
+
+<div align="center">
+
+[![Developer](https://img.shields.io/badge/Developer-Next.js%20%7C%20C%2B%2B%20%7C%20Qt-7C3AED?style=flat-square)](#-technologies-and-knowledge)
+[![Creative](https://img.shields.io/badge/Creative-Design%20%7C%20Photography%20%7C%20Video-EC4899?style=flat-square)](#-creative-background)
+[![AI](https://img.shields.io/badge/AI-Agents%20%7C%20Voice%20%7C%20Automation-2563EB?style=flat-square)](#-ai-agents-and-automation)
+[![Security](https://img.shields.io/badge/Security-Cybersecurity%20%7C%20Ethical%20Hacking-10B981?style=flat-square)](#-cybersecurity-and-systems)
+
+</div>
+
+---
+
 ## 👨‍🚀 About Me
 
-<img align="right" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Nepal&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Most Used Languages"/>
+<img align="right" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Nepal&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=10" alt="Most Used Languages"/>
 
-I am **Sudhan Bhattarai**, a BIT student, developer, designer and photographer from **Kathmandu, Nepal**.
+I am **Sudhan Bhattarai**, a Bachelor in Information Technology student, developer, designer, photographer and technology enthusiast from Nepal.
 
-I enjoy combining **technology, creativity and visual design** to create modern digital experiences. My interests range from web development and software projects to graphic design, photography, artificial intelligence and interactive interfaces.
+I enjoy combining **technology, creativity and problem solving** to build websites, desktop applications, academic software, interactive interfaces and AI-powered tools.
 
 I am currently studying **Bachelor in Information Technology** at **Kuleshwor Awas Campus**, affiliated with **Purbanchal University**.
 
-My goal is not only to write working code, but to create projects that feel polished, useful, interactive and visually memorable.
+My interests include:
+
+- Web and software development
+- Windows desktop applications
+- Artificial intelligence and AI agents
+- Cybersecurity and ethical hacking
+- UI and visual design
+- Photography and videography
+- Graphic design and digital content
+- Automation and system tools
+- Gaming, esports and interactive experiences
+
+My goal is not only to write working code, but to create projects that are useful, polished, safe and visually memorable.
 
 ```typescript
 const sudhan = {
-    location: "Kathmandu, Nepal",
+    name: "Sudhan Bhattarai",
+    location: "Nepal",
 
     education: {
         degree: "Bachelor in Information Technology",
-        institution: "Kuleshwor Awas Campus",
-        university: "Purbanchal University"
+        campus: "Kuleshwor Awas Campus",
+        university: "Purbanchal University",
+        status: "Currently Studying"
     },
 
     roles: [
-        "BIT Student",
         "Developer",
         "Designer",
         "Photographer",
+        "BIT Student",
+        "Freelancer",
         "Technology Enthusiast"
     ],
 
     interests: [
         "Web Development",
-        "Software Development",
+        "Desktop Applications",
         "Artificial Intelligence",
         "AI Agents",
+        "Cybersecurity",
+        "Ethical Hacking",
         "Automation",
-        "UI and Visual Design",
         "Photography",
         "Videography",
-        "Gaming and Technology"
+        "Graphic Design",
+        "Gaming and Esports"
     ],
 
-    currentlyLearning: [
-        "Next.js",
-        "React",
-        "TypeScript",
-        "C++",
-        "C#",
+    currentFocus: [
+        "C++ and Qt",
+        "Next.js and TypeScript",
         "AI Agent Development",
-        "Voice Assistant Systems"
+        "Windows Utilities",
+        "Cybersecurity Fundamentals",
+        "Creative Technology"
     ],
 
-    philosophy: "Keep learning, building and improving.",
+    availability: [
+        "Freelance Projects",
+        "Collaborations",
+        "Creative Work",
+        "Development Opportunities"
+    ],
 
-    goal: "Create technology that combines functionality and creativity."
+    philosophy: "Keep learning, building and improving."
 };
 ```
 
@@ -84,42 +127,7 @@ const sudhan = {
 
 ---
 
-## 🌌 My Journey
-
-My journey into technology started with an interest in computers, graphics and creative software.
-
-Before working on modern web applications, I explored areas such as:
-
-- Graphic design
-- Photoshop
-- Photography
-- Videography
-- Basic programming
-- Computer software and hardware
-- Interactive visual experiences
-
-As a BIT student, I began turning those interests into practical development projects.
-
-My early academic work taught me programming fundamentals such as:
-
-```text
-Variables and data types
-Conditional statements
-Loops
-Functions
-Arrays and strings
-Structures
-File handling
-Input validation
-Problem solving
-Modular programming
-```
-
-I am now expanding into modern web technologies, interactive interfaces, cloud deployment, GitHub workflows and artificial intelligence.
-
----
-
-## 🚀 What I Do
+## 🎯 What I Bring
 
 <table>
 <tr>
@@ -131,12 +139,14 @@ I am now expanding into modern web technologies, interactive interfaces, cloud d
 - Modern frontend interfaces
 - Next.js and React applications
 - TypeScript and JavaScript projects
-- C and C++ programming
-- File-based software systems
+- C and C++ applications
+- Qt desktop development
+- Windows system utilities
+- Academic software projects
 - Interactive UI experiments
 - Git and GitHub workflows
 - Cloud deployment
-- Performance optimization
+- Debugging and testing
 
 </td>
 
@@ -145,15 +155,17 @@ I am now expanding into modern web technologies, interactive interfaces, cloud d
 ### 🎨 Creative Work
 
 - Graphic design
-- UI and visual design
 - Photography
 - Videography
 - Photo editing
 - Video editing
+- UI and visual design
 - Portfolio design
+- Social media content
 - Motion effects
 - Digital branding
-- Creative visual experiences
+- Creative direction
+- Visual storytelling
 
 </td>
 </tr>
@@ -164,89 +176,40 @@ I am now expanding into modern web technologies, interactive interfaces, cloud d
 ### 🤖 AI and Automation
 
 - AI assistant experiments
-- Voice-based interfaces
+- Jarvis and Friday-style assistants
 - LLM integration
-- AI agent architecture
-- Automation workflows
 - Gemini API exploration
 - OpenAI API exploration
+- Voice-command interfaces
+- Speech-to-text concepts
+- Text-to-speech systems
+- Multi-command automation
+- Local file operation concepts
 - Futuristic floating interfaces
-- Multi-command assistants
-- Local file automation concepts
+- Permission-aware automation
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 Continuous Learning
+### 🛡️ Systems and Security
 
-- Data structures
-- Object-oriented programming
-- Frontend architecture
-- Better UI and UX practices
-- Secure environment handling
-- Deployment workflows
-- Software project planning
-- Version control
-- Problem solving
-- Real-world project development
+- Cybersecurity fundamentals
+- Ethical hacking learning
+- Kali Linux
+- Virtual machines
+- Windows troubleshooting
+- System diagnostics
+- Registry and Windows APIs
+- Networking fundamentals
+- Security awareness
+- Digital privacy concepts
+- Safe system optimization
+- Hardware and software basics
 
 </td>
 </tr>
 </table>
-
----
-
-## 🛠️ Technologies and Tools
-
-<div align="center">
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,javascript,typescript,python,html,css&theme=dark" alt="Programming Languages"/>
-
-<br><br>
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,npm&theme=dark" alt="Frontend Development"/>
-
-<br><br>
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare,powershell&theme=dark" alt="Development Tools"/>
-
-<br><br>
-
-### Creative Tools
-
-<img src="https://skillicons.dev/icons?i=photoshop,figma,premiere&theme=dark" alt="Creative Tools"/>
-
-<br><br>
-
-### Platforms and Environment
-
-<img src="https://skillicons.dev/icons?i=windows,linux,kali&theme=dark" alt="Operating Systems"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-</div>
 
 ---
 
@@ -260,11 +223,9 @@ I am now expanding into modern web technologies, interactive interfaces, cloud d
 
 ### 🌌 Personal Portfolio
 
-A modern and interactive personal portfolio with a futuristic space-inspired design, animated components, responsive layouts and visual effects.
+A modern and interactive personal portfolio featuring a futuristic space-inspired design, animated components, custom effects and responsive layouts.
 
 <br>
-
-**Main Features**
 
 `Animated Hero` • `Interactive Background`
 
@@ -293,19 +254,50 @@ A modern and interactive personal portfolio with a futuristic space-inspired des
 
 <div align="center">
 
-### 💰 Student Expense Management System
+### 🖥️ OptiCore PC Doctor
 
-A C-based console application created as an academic BIT project for managing and organizing student expenses.
+A native Windows diagnostics, monitoring, cleanup and optimization utility built with C++20, Qt 6 and documented Windows APIs.
 
 <br>
 
-**Main Features**
+`System Monitoring` • `Safe Cleanup`
 
-`Add Expenses` • `View Expenses`
+`Windows Controls` • `Repair Tools`
 
-`Edit Records` • `Delete Records`
+`Network Diagnostics` • `Restore System`
 
-`Category Reports` • `Calculate Totals`
+<br>
+
+![C++](https://img.shields.io/badge/C%2B%2B-20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-3.24%2B-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=flat-square&logo=windows11&logoColor=white)
+
+<br><br>
+
+[![Repository](https://img.shields.io/badge/VIEW_OPTICORE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujan-Nepal/OptiCore-PC-Doctor)
+
+[![Releases](https://img.shields.io/badge/DOWNLOAD_RELEASE-7C3AED?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/Sujan-Nepal/OptiCore-PC-Doctor/releases)
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 💰 Student Expense Management System
+
+A C-based console application for recording, editing, deleting, categorizing and calculating student expenses.
+
+<br>
+
+`Add Expenses` • `View Records`
+
+`Edit and Delete` • `Category Reports`
 
 `Input Validation` • `File Storage`
 
@@ -318,7 +310,38 @@ A C-based console application created as an academic BIT project for managing an
 
 <br><br>
 
-[![Repositories](https://img.shields.io/badge/VIEW_MY_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujan-Nepal?tab=repositories)
+[![Repositories](https://img.shields.io/badge/EXPLORE_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujan-Nepal?tab=repositories)
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🤖 Personal AI Agent
+
+An ongoing Jarvis and Friday-inspired AI assistant project focused on voice interaction, automation, LLM integration and futuristic interfaces.
+
+<br>
+
+`Voice Commands` • `LLM Integration`
+
+`Automation` • `File Operations`
+
+`Speech Systems` • `Floating UI`
+
+<br>
+
+![AI](https://img.shields.io/badge/AI_Agent-Development-7C3AED?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-API-4285F4?style=flat-square&logo=google)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-111827?style=flat-square&logo=openai)
+![Python](https://img.shields.io/badge/Python-Exploration-3776AB?style=flat-square&logo=python&logoColor=white)
+
+<br><br>
+
+![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-F59E0B?style=for-the-badge)
 
 </div>
 
@@ -328,78 +351,53 @@ A C-based console application created as an academic BIT project for managing an
 
 ---
 
-## 💰 Expense Management System Experience
+## 🖥️ OptiCore Development Experience
 
-The Student Expense Management System helped me understand how complete programs are structured.
+OptiCore is one of my largest desktop application projects.
 
-The project includes:
+It includes:
 
 ```text
-➕ Adding expense records
-📋 Viewing saved expenses
-✏️ Editing existing records
-🗑️ Deleting unwanted records
-🔍 Searching expense information
-📊 Creating category-based reports
-💵 Calculating total expenses
-💾 Saving information in text files
-✅ Validating user input
+📊 Live CPU, RAM, disk and network monitoring
+🧠 System information and PC health scoring
+🧹 Safe temporary-file cleanup
+↩️ Reversible Windows tweaks
+🚀 Startup application management
+⚙️ Process monitoring
+🌐 Network diagnostics
+🛠️ SFC, DISM and Check Disk tools
+📋 Diagnostic logging
+💾 Backup and restore records
+🎨 Dark, light and system themes
+🧪 Automated foundation tests
 ```
 
-Through this project, I practiced:
+Through OptiCore, I worked with:
 
-- C programming
-- Structures
-- Arrays
-- Functions
-- Strings
-- Loops
-- Conditional statements
-- File handling
-- Modular programming
-- Debugging
-- Input validation
-- Project documentation
+- C++20
+- Qt 6 Widgets
+- CMake
+- Windows APIs
+- Registry operations
+- COM and WMI
+- Performance counters
+- Networking APIs
+- Desktop UI architecture
+- Safety-focused system changes
+- Testing and project documentation
 
 ---
 
-## 🌐 Portfolio Development Experience
+## 🤖 AI Agents and Automation
 
-My portfolio is one of my most important creative development projects.
-
-It combines my interest in development, graphics and interactive design.
-
-The portfolio includes:
-
-```text
-🌌 Space and galaxy-inspired theme
-🎬 Animated introduction loader
-🖱️ Custom glowing cursor
-🚀 Interactive hero section
-✨ Framer Motion transitions
-👨‍💻 About and personal statistics
-🛠️ Skills and technology showcase
-🎨 Services section
-📁 Project showcase
-📱 Responsive layouts
-☁️ Cloud deployment
-🔐 Protected environment variables
-```
-
-The project is built with a reusable component-based structure using Next.js and TypeScript.
-
----
-
-## 🤖 AI Assistant and Agent Exploration
-
-One of my biggest long-term interests is creating a personal AI assistant inspired by futuristic assistants such as Jarvis-style systems.
+One of my long-term goals is to develop a multifunctional personal AI assistant inspired by futuristic systems such as Jarvis and Friday.
 
 I am exploring how an AI assistant can combine:
 
 ```text
 🎙️ Voice activation
 🧠 Large language models
-💬 Natural conversations
+💬 Natural conversation
 ⚙️ Multiple commands
 📂 File operations
 🖥️ Computer automation
@@ -407,18 +405,175 @@ I am exploring how an AI assistant can combine:
 🔊 Speech-to-text
 🗣️ Text-to-speech
 ✨ Animated floating interfaces
-🔐 Permission-based system access
+🔐 Permission-based access
+📋 Task planning and execution
 ```
 
-My goal is to understand both the intelligence behind the assistant and the system architecture required to make it useful.
+I am interested in building assistants that are useful, understandable and safe rather than only visually impressive.
+
+---
+
+## 🛡️ Cybersecurity and Systems
+
+I am actively learning cybersecurity, ethical hacking and computer-system fundamentals.
+
+My current areas of interest include:
+
+```text
+Kali Linux
+VirtualBox and virtual machines
+Network fundamentals
+Windows security
+Digital privacy
+Security awareness
+Ethical hacking concepts
+System troubleshooting
+Firewall basics
+Safe software configuration
+Operating-system tools
+Permission and access control
+```
+
+I treat cybersecurity as an active learning area and continue to improve through practical experimentation, labs and research.
+
+---
+
+## 🛠️ Technologies and Knowledge
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript,typescript,html,css&theme=dark" alt="Programming Languages"/>
+
+<br><br>
+
+### Frontend and Web
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,npm&theme=dark" alt="Frontend Technologies"/>
+
+<br><br>
+
+### Desktop and Native Development
+
+<img src="https://skillicons.dev/icons?i=cpp,qt,cmake,visualstudio,windows&theme=dark" alt="Desktop Development"/>
+
+<br><br>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare,powershell&theme=dark" alt="Development Tools"/>
+
+<br><br>
+
+### Creative Tools
+
+<img src="https://skillicons.dev/icons?i=photoshop,figma,premiere&theme=dark" alt="Creative Tools"/>
+
+<br><br>
+
+### Systems and Platforms
+
+<img src="https://skillicons.dev/icons?i=windows,linux,kali&theme=dark" alt="Platforms and Systems"/>
+
+</div>
+
+---
+
+## 📚 Skill Levels
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 💪 Strong Skills
+
+- HTML and CSS
+- C programming
+- Photography
+- Graphic design
+- Photoshop
+- Photo editing
+- Videography
+- Microsoft Office
+- Git and GitHub
+- Windows troubleshooting
+- Digital content creation
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧩 Working Knowledge
+
+- C++
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
+- Framer Motion
+- Qt 6
+- CMake
+- PowerShell
+- Cloud deployment
+- UI design
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📖 Currently Learning
+
+- C#
+- Python
+- AI agent architecture
+- Voice assistants
+- Cybersecurity
+- Ethical hacking
+- Data structures
+- Object-oriented programming
+- Full-stack development
+- Windows APIs
+- Advanced automation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Programming and Technical Knowledge
+
+```text
+Variables and data types
+Conditional statements
+Loops and iteration
+Functions
+Arrays and strings
+Structures
+File handling
+Object-oriented programming
+Input validation
+Error handling
+Debugging
+Modular programming
+Version control
+Responsive design
+Component-based architecture
+Environment-variable security
+API integration
+Cloud deployment
+Basic database concepts
+Computer hardware and software fundamentals
+Problem solving and logical thinking
+```
 
 ---
 
 ## 🎨 Creative Background
 
-Technology is only one part of my work.
-
-I also have experience and interest in:
+I have practical experience in creative work through personal projects and **Moment Creation Digital Studio**.
 
 <table>
 <tr>
@@ -426,15 +581,7 @@ I also have experience and interest in:
 
 ### 📸 Photography
 
-Capturing moments, composing images and improving visual storytelling.
-
-</td>
-
-<td width="25%" align="center">
-
-### 🖼️ Graphic Design
-
-Creating visual content, graphics, layouts and digital designs.
+Experienced in composition, event photography, portrait work, image selection and visual storytelling.
 
 </td>
 
@@ -442,7 +589,15 @@ Creating visual content, graphics, layouts and digital designs.
 
 ### 🎬 Videography
 
-Recording, editing and presenting visual stories through video.
+Experienced in recording, basic production, editing and presenting stories through video.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🖼️ Graphic Design
+
+Experienced in Photoshop, visual layouts, promotional graphics and digital content creation.
 
 </td>
 
@@ -450,13 +605,286 @@ Recording, editing and presenting visual stories through video.
 
 ### 🌐 Web Design
 
-Combining interface structure, typography, color and animation.
+Combining layout, typography, color, responsiveness, animations and interactive effects.
 
 </td>
 </tr>
 </table>
 
-This creative background strongly influences how I approach frontend development and portfolio design.
+My creative background strongly influences how I approach frontend development and interface design.
+
+---
+
+## 🏢 Experience
+
+### Moment Creation Digital Studio
+
+I have experience supporting creative and administrative work at **Moment Creation Digital Studio**.
+
+My responsibilities and experience include:
+
+```text
+Welcoming and assisting visitors
+Handling phone calls and emails
+Scheduling appointments
+Managing front-desk activities
+Maintaining records and documents
+Providing customer support
+Photography and videography assistance
+Photo and video editing
+Graphic design
+Digital content support
+Social media assistance
+```
+
+This experience helped me develop communication, organization, customer service, creative production and practical business skills.
+
+---
+
+## 🎓 Education
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Bachelor in Information Technology
+
+**Kuleshwor Awas Campus**  
+**Purbanchal University**
+
+Currently studying information technology with focus areas including:
+
+- IT fundamentals
+- Programming concepts
+- Hardware and software
+- Web technologies
+- Databases
+- Logical thinking
+- Computer applications
+- Office tools
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 School Leaving Certificate
+
+**Gyanodaya Secondary School**
+
+Computer Science-focused academic background including:
+
+- Computer Science
+- Accounting
+- Economics
+- English
+- Nepali
+- Social Studies
+- Office applications
+- Basic business and IT knowledge
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📘 Secondary Education Examination
+
+**Gyanodaya Secondary School**
+
+Completed secondary education with Additional Mathematics and Computer Science among the main subjects.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📗 Basic Level Examination
+
+**Radiant Public Boarding School**
+
+Completed the Basic Level Examination and developed foundational academic, communication and technology skills.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📜 Certifications and Training
+
+### Formal Training and Qualifications
+
+```text
+✅ IELTS — Passed
+✅ Computer Training
+✅ Bachelor in Information Technology — Currently Studying
+✅ School Leaving Certificate — Computer Science Focus
+✅ Secondary Education Examination
+✅ Basic Level Examination
+```
+
+### Digital Competence Self-Assessment
+
+```text
+Information and Data Literacy — Advanced Level 6
+Communication and Collaboration — Advanced Level 6
+Digital Content Creation — Advanced Level 6
+Digital Safety — Advanced Level 6
+Problem Solving — Advanced Level 6
+```
+
+> The digital competence result is a self-assessment based on the Digital Competence Framework and is not presented as a formal professional certification.
+
+### Additional Experience
+
+```text
+Photography
+Videography
+Graphic design
+Photoshop
+Microsoft Office
+Social media
+Virtual assistance
+Administrative support
+Freelancing
+Coding and software projects
+Sports and esports participation
+```
+
+---
+
+## 🗣️ Languages
+
+<div align="center">
+
+| Language | Ability |
+|:---:|:---:|
+| 🇳🇵 Nepali | Native |
+| 🇬🇧 English | Independent to Proficient |
+| 🇮🇳 Hindi | Conversational |
+
+</div>
+
+---
+
+## ⚽ Sports and Esports
+
+Technology and creative work are important parts of my life, but I also enjoy competitive sports and gaming.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 Sports
+
+- Competitive football player
+- School-level football experience
+- Local football participation
+- Competitive basketball player
+- School and local basketball participation
+- Table tennis
+- Recreational fitness and outdoor activities
+- Teamwork and competitive discipline
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎮 Esports
+
+- High-ranked competitive PUBG player
+- High-ranked competitive Mobile Legends: Bang Bang player
+- Experience in competitive matchmaking
+- Global matchmaking experience
+- Team communication
+- Tactical decision making
+- Competitive gaming discipline
+- Interest in esports and gaming technology
+
+</td>
+</tr>
+</table>
+
+Sports and esports have helped me develop teamwork, communication, quick decision making, focus and persistence.
+
+---
+
+## 💼 Available for Projects and Freelancing
+
+I am open to selected freelance work, collaborations, internships and practical projects.
+
+### Development Services
+
+```text
+🌐 Personal portfolio websites
+💻 Frontend website development
+🖥️ Windows desktop applications
+📱 Responsive web interfaces
+🧩 Academic C and C++ projects
+⚙️ Basic automation tools
+🔧 PC troubleshooting and digital support
+```
+
+### Creative Services
+
+```text
+🎨 Graphic design
+📸 Photography
+🎬 Videography
+🖼️ Photo editing
+🎞️ Video editing
+📱 Social media content
+🌌 Portfolio and visual design
+```
+
+### Administrative and Digital Support
+
+```text
+📋 Virtual assistance
+📧 Email and document handling
+📅 Scheduling and organization
+📝 Microsoft Office work
+💬 Customer communication
+📂 Digital file organization
+```
+
+<div align="center">
+
+[![Hire Me](https://img.shields.io/badge/HIRE_ME_FOR_A_PROJECT-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhanbhattarai2006@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/CHAT_ON_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9779869488601)
+
+</div>
+
+---
+
+## 🧰 Tools and Platforms
+
+```text
+Visual Studio Code
+Visual Studio
+Git
+GitHub
+PowerShell
+Node.js
+npm
+Next.js
+React
+Cloudflare
+Vercel
+Qt 6
+CMake
+Windows
+Linux
+Kali Linux
+VirtualBox
+Photoshop
+Premiere Pro
+Figma
+Microsoft Word
+Microsoft Excel
+Microsoft PowerPoint
+```
 
 ---
 
@@ -496,63 +924,7 @@ This creative background strongly influences how I approach frontend development
 
 ---
 
-## 📚 Currently Learning and Exploring
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### 🌐 Web Development
-
-Next.js  
-React  
-TypeScript  
-Tailwind CSS  
-Framer Motion
-
-</td>
-
-<td width="25%" align="center">
-
-### 🤖 Artificial Intelligence
-
-AI agents  
-Voice assistants  
-LLM integration  
-Automation  
-API integration
-
-</td>
-
-<td width="25%" align="center">
-
-### 💻 Programming
-
-C  
-C++  
-C#  
-OOP  
-Data structures
-
-</td>
-
-<td width="25%" align="center">
-
-### 🎨 Creative Technology
-
-UI design  
-Photography  
-Video editing  
-Motion effects  
-Interactive interfaces
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧪 Areas I Want to Explore
+## 🧪 Areas I Am Exploring
 
 ```text
 🤖 Intelligent AI assistants
@@ -560,68 +932,12 @@ Interactive interfaces
 🧠 Machine learning fundamentals
 🌐 Full-stack web development
 📱 Mobile application development
-🔐 Cybersecurity fundamentals
+🔐 Cybersecurity and ethical hacking
 ☁️ Cloud technologies
 🎮 Interactive games and experiences
-🖥️ Desktop application development
+🖥️ Desktop software development
 ⚙️ Advanced automation
-```
-
----
-
-## 🎮 Beyond Coding
-
-When I am not coding or designing, I enjoy exploring games, computers and technology.
-
-My interests include:
-
-- Story-driven games
-- Open-world games
-- Action role-playing games
-- Competitive games
-- Gaming hardware
-- Computer customization
-- Windows tools
-- Linux and virtual machines
-- New software
-- Creative interfaces
-
-Gaming also inspires my interest in cinematic visuals, immersive environments, interface design and interactive experiences.
-
----
-
-## 🧰 My Development Workflow
-
-```text
-1. Understand the problem
-2. Plan the structure
-3. Build the core functionality
-4. Test each feature
-5. Fix errors and edge cases
-6. Improve the visual design
-7. Optimize responsiveness
-8. Protect sensitive information
-9. Commit changes with Git
-10. Push and maintain the project on GitHub
-```
-
-Tools I regularly explore or use include:
-
-```text
-Visual Studio Code
-Git
-GitHub
-PowerShell
-Node.js
-npm
-Next.js
-Cloudflare
-Vercel
-Photoshop
-Figma
-VirtualBox
-Windows
-Linux
+🌍 Freelancing and remote collaboration
 ```
 
 ---
@@ -629,33 +945,22 @@ Linux
 ## 🎯 My Goals
 
 ```text
-🚀 Build more complete real-world development projects
-🌌 Create unique and interactive digital experiences
+🚀 Build more complete real-world projects
+🌌 Create unique interactive digital experiences
 🤖 Develop a multifunctional personal AI assistant
 🧠 Improve my understanding of artificial intelligence
-💻 Strengthen my programming and problem-solving skills
+🔐 Strengthen my cybersecurity knowledge
+💻 Improve programming and problem-solving skills
 🎨 Combine development with design and creativity
-🌐 Become more confident in full-stack development
-🔐 Learn more about cybersecurity and secure development
-🤝 Collaborate with developers and creative professionals
+🌐 Grow into full-stack and desktop development
+🤝 Collaborate with developers and creators
+💼 Build a strong freelancing career
 📚 Continue learning something useful every day
 ```
 
 ---
 
-## 📌 Quick Highlights
-
-<div align="center">
-
-| 🚀 Projects | 🎨 Designs | ⏳ Learning Hours | 💻 Technologies |
-|:---:|:---:|:---:|:---:|
-| **25+** | **100+** | **1000+** | **20+** |
-
-</div>
-
----
-
-## 💭 Developer Mindset
+## 💭 My Mindset
 
 ```text
 I do not want to create projects only for submission.
@@ -668,33 +973,57 @@ For me, development is where logic meets creativity.
 
 ---
 
-## 🐍 Contribution Journey
+## 📬 Connect With Me
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sujan-Nepal/Sujan-Nepal/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+[![Email](https://img.shields.io/badge/Email-sudhanbhattarai2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhanbhattarai2006@gmail.com)
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudhan_Bhattarai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhan-bhattarai-662769392/)
 
-> The contribution snake requires a GitHub Actions workflow. It may remain hidden until the workflow is configured.
+[![Instagram](https://img.shields.io/badge/Instagram-suzzy.3x3-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suzzy.3x3/?hl=en)
 
----
+[![Facebook](https://img.shields.io/badge/Facebook-SuxxanNP-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SuxxanNP)
 
-## 🤝 Connect With Me
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B977_9869488601-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9779869488601)
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-sudhanb.com.np-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sudhanb.com.np)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Sujan--Nepal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujan-Nepal)
-
-[![Repositories](https://img.shields.io/badge/Explore_My_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujan-Nepal?tab=repositories)
+[![Discord](https://img.shields.io/badge/Discord-itzme__sujan-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+GitHub+profile+%F0%9F%92%9C;Explore+my+projects+and+follow+my+development+journey+%F0%9F%9A%80;Technology+meets+creativity+here+%E2%9C%A8;Keep+learning.+Keep+building.+Keep+creating.+%F0%9F%8C%8C)](https://git.io/typing-svg)
+### 📞 Phone
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=6,11,20&animation=fadeIn" alt="Profile Footer"/>
+```text
++977 9869488601
+```
+
+</div>
+
+---
+
+## 🌟 Support My Work
+
+<div align="center">
+
+If you like my projects, consider following my GitHub profile and starring the repositories you find useful.
+
+<br><br>
+
+[![Follow](https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujan-Nepal)
+
+[![Portfolio](https://img.shields.io/badge/VISIT_MY_PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sudhanb.com.np)
+
+[![Projects](https://img.shields.io/badge/EXPLORE_25%2B_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujan-Nepal?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&lines=Thanks+for+visiting+my+GitHub+profile+%F0%9F%92%9C;Explore+my+projects+and+follow+my+development+journey+%F0%9F%9A%80;Technology%2C+creativity+and+curiosity+meet+here+%E2%9C%A8;Available+for+projects%2C+freelancing+and+collaboration+%F0%9F%A4%9D)](https://git.io/typing-svg)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=165&section=footer&color=gradient&customColorList=6,11,20&animation=fadeIn" alt="Profile Footer"/>
 
 ### Made with code, creativity and curiosity.
 
