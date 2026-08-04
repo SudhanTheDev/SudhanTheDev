@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=gradient&customColorList=6,11,20&text=SUDHAN%20BHATTARAI&fontSize=49&fontColor=ffffff&fontAlignY=36&desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Photographer%20%E2%80%A2%20BIT%20Student&descAlignY=58&descSize=17&animation=fadeIn" alt="Sudhan Bhattarai GitHub Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:020617,35:1E3A8A,70:6D28D9,100:06B6D4&text=SUDHAN%20BHATTARAI&fontSize=49&fontColor=ffffff&fontAlignY=36&desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Photographer%20%E2%80%A2%20BIT%20Student&descAlignY=58&descSize=17&animation=fadeIn" alt="Sudhan Bhattarai GitHub Header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=980&lines=Welcome+to+my+GitHub+universe+%F0%9F%8C%8C;I+build+modern+websites%2C+desktop+apps+and+AI+experiences+%F0%9F%9A%80;Developer+%E2%80%A2+Designer+%E2%80%A2+Photographer+%E2%80%A2+Creator;Exploring+AI+agents%2C+cybersecurity+and+ethical+hacking+%F0%9F%A4%96;Available+for+projects%2C+freelancing+and+collaboration+%E2%9C%A8)](https://git.io/typing-svg)
 
@@ -70,57 +70,50 @@ My goal is not only to write working code, but to create projects that are usefu
 
 ```typescript
 const sudhan = {
-    name: "Sudhan Bhattarai",
     location: "Nepal",
 
     education: {
         degree: "Bachelor in Information Technology",
-        campus: "Kuleshwor Awas Campus",
-        university: "Purbanchal University",
-        status: "Currently Studying"
+        institution: "Kuleshwor Awas Campus",
+        university: "Purbanchal University"
     },
 
     roles: [
+        "BIT Student",
         "Developer",
         "Designer",
         "Photographer",
-        "BIT Student",
-        "Freelancer",
         "Technology Enthusiast"
     ],
 
     interests: [
         "Web Development",
-        "Desktop Applications",
+        "Software Development",
         "Artificial Intelligence",
         "AI Agents",
+        "Automation",
         "Cybersecurity",
         "Ethical Hacking",
-        "Automation",
+        "UI and Visual Design",
         "Photography",
         "Videography",
-        "Graphic Design",
         "Gaming and Esports"
     ],
 
-    currentFocus: [
-        "C++ and Qt",
-        "Next.js and TypeScript",
+    currentlyLearning: [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "C++",
+        "C#",
         "AI Agent Development",
-        "Windows Utilities",
-        "Team Collaboration Software",
-        "Cybersecurity Fundamentals",
-        "Creative Technology"
+        "Voice Assistant Systems",
+        "Cybersecurity"
     ],
 
-    availability: [
-        "Freelance Projects",
-        "Collaborations",
-        "Creative Work",
-        "Development Opportunities"
-    ],
+    philosophy: "Keep learning, building and improving.",
 
-    philosophy: "Keep learning, building and improving."
+    goal: "Create technology that combines functionality and creativity."
 };
 ```
 
@@ -140,14 +133,14 @@ const sudhan = {
 - Modern frontend interfaces
 - Next.js and React applications
 - TypeScript and JavaScript projects
-- C and C++ applications
+- C and C++ programming
 - Qt desktop development
 - Windows system utilities
-- Academic software projects
+- File-based software systems
 - Interactive UI experiments
 - Git and GitHub workflows
 - Cloud deployment
-- Debugging and testing
+- Performance optimization
 
 </td>
 
@@ -156,16 +149,16 @@ const sudhan = {
 ### 🎨 Creative Work
 
 - Graphic design
+- UI and visual design
 - Photography
 - Videography
 - Photo editing
 - Video editing
-- UI and visual design
 - Portfolio design
-- Social media content
 - Motion effects
 - Digital branding
-- Creative direction
+- Creative visual experiences
+- Social media content
 - Visual storytelling
 
 </td>
@@ -177,17 +170,17 @@ const sudhan = {
 ### 🤖 AI and Automation
 
 - AI assistant experiments
-- Jarvis and Friday-style assistants
+- Voice-based interfaces
 - LLM integration
+- AI agent architecture
+- Automation workflows
 - Gemini API exploration
 - OpenAI API exploration
-- Voice-command interfaces
-- Speech-to-text concepts
-- Text-to-speech systems
-- Multi-command automation
-- Local file operation concepts
 - Futuristic floating interfaces
-- Permission-aware automation
+- Multi-command assistants
+- Local file automation concepts
+- Speech-to-text systems
+- Text-to-speech systems
 
 </td>
 
@@ -364,32 +357,197 @@ A first-semester BIT console application for recording, editing, deleting, categ
 
 ---
 
-## 🚧 Active Project — Personal AI Agent
+## 🚧 Ongoing Project — Personal AI Agent
+
+<table width="100%">
+<tr>
+<td>
 
 <div align="center">
 
-### 🤖 Jarvis and Friday-Inspired Assistant
+### 🤖 Jarvis / Friday-Inspired AI Assistant
 
-An ongoing AI assistant project focused on voice interaction, LLM integration, automation, computer control and a futuristic floating interface.
+I am currently developing a personal AI agent inspired by futuristic assistants such as **Jarvis** and **Friday**.
 
-<br>
-
-`Voice Commands` • `LLM Integration` • `Automation`
-
-`File Operations` • `Speech Systems` • `Floating UI`
+The project focuses on combining voice interaction, large language models, computer automation and a futuristic floating interface into one multifunctional assistant.
 
 <br>
 
-![AI](https://img.shields.io/badge/AI_Agent-Development-7C3AED?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-API-4285F4?style=flat-square&logo=google)
-![OpenAI](https://img.shields.io/badge/OpenAI-API-111827?style=flat-square&logo=openai)
-![Python](https://img.shields.io/badge/Python-Exploration-3776AB?style=flat-square&logo=python&logoColor=white)
+`Voice Commands` • `LLM Integration` • `Computer Automation`
 
-<br><br>
+`File Operations` • `Speech Systems` • `Dynamic Floating UI`
 
-![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-F59E0B?style=for-the-badge)
+<br>
+
+![Status](https://img.shields.io/badge/STATUS-ONGOING_PROJECT-F59E0B?style=for-the-badge)
+![AI Agent](https://img.shields.io/badge/AI_AGENT-IN_DEVELOPMENT-7C3AED?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-111827?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
+
+---
+
+### 🎯 Project Vision
+
+The goal is to create an assistant that can understand natural instructions, communicate through voice, perform approved computer tasks and display useful information through a modern animated interface.
+
+```text
+User Voice
+    ↓
+Speech-to-Text
+    ↓
+Language Model
+    ↓
+Intent and Task Planning
+    ↓
+Permission Verification
+    ↓
+Tool or Computer Action
+    ↓
+Visual and Voice Response
+```
+
+---
+
+### 🚀 Planned Capabilities
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎙️ Voice and Communication
+
+- Voice activation
+- Natural voice commands
+- Continuous conversations
+- Speech-to-text processing
+- Natural text-to-speech responses
+- Multiple language support
+- Context-aware conversations
+- Voice interruption support
+
+</td>
+
+<td width="50%" valign="top">
+
+#### 🧠 Intelligence
+
+- Large language model integration
+- Gemini API integration
+- OpenAI API exploration
+- Multi-command understanding
+- Intent recognition
+- Task planning
+- Context and memory systems
+- Tool selection and execution
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🖥️ Computer Automation
+
+- Opening applications
+- Managing windows
+- Local file operations
+- Folder organization
+- Approved command execution
+- System-information access
+- Application control
+- Workflow automation
+
+</td>
+
+<td width="50%" valign="top">
+
+#### ✨ Futuristic Interface
+
+- Animated floating assistant
+- Dynamic Island-style interface
+- Voice visualizer
+- Listening and processing animations
+- Expandable command panel
+- Compact notification interface
+- Real-time status indicators
+- Smooth transitions and effects
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Technologies Being Explored
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-7C3AED?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows_Automation-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+
+</div>
+
+```text
+Large Language Models
+AI Agent Architecture
+Voice Assistant Systems
+Speech-to-Text Services
+Text-to-Speech Services
+LiveKit Real-Time Communication
+Computer Automation
+Local File Operations
+Multi-Command Workflows
+Floating Desktop Interfaces
+Dynamic Island UI Concepts
+Secure Permissions
+Expandable Plugin Systems
+```
+
+---
+
+### 🔐 Safety and Permissions
+
+The assistant is intended to use permission-based access for sensitive computer operations.
+
+- Ask before performing sensitive actions
+- Clearly display the action being performed
+- Restrict access to approved folders and applications
+- Avoid hidden background actions
+- Keep important operations reversible
+- Log significant computer actions
+- Separate normal commands from administrator actions
+- Give the user full control over enabled capabilities
+
+---
+
+### 📍 Current Status
+
+```text
+✅ Project vision and feature planning
+✅ Voice-assistant architecture research
+✅ LiveKit project setup
+✅ Gemini API exploration
+✅ Speech-to-text and text-to-speech research
+✅ Floating UI and Dynamic Island research
+🚧 Agent logic development
+🚧 Tool and command architecture
+🚧 Voice workflow integration
+🚧 Desktop automation
+🚧 Animated interface development
+📋 Memory and context system
+📋 Plugin and permission framework
+```
+
+> This is an ongoing experimental project. Its architecture, interface and capabilities may change as I continue learning, testing and developing it.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -990,6 +1148,29 @@ Microsoft PowerPoint
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SudhanTheDev/SudhanTheDev/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SudhanTheDev/SudhanTheDev/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/SudhanTheDev/SudhanTheDev/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+---
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -1099,7 +1280,7 @@ If you like my projects, consider following my GitHub profile and starring the r
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&lines=Thanks+for+visiting+my+GitHub+profile+%F0%9F%92%9C;Explore+TeamSync%2C+OptiCore%2C+my+portfolio+and+more+%F0%9F%9A%80;Technology%2C+creativity+and+curiosity+meet+here+%E2%9C%A8;Available+for+projects%2C+freelancing+and+collaboration+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=165&section=footer&color=gradient&customColorList=6,11,20&animation=fadeIn" alt="Profile Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=165&section=footer&color=0:020617,35:1E3A8A,70:6D28D9,100:06B6D4&animation=fadeIn" alt="Profile Footer"/>
 
 ### Made with code, creativity and curiosity.
 
