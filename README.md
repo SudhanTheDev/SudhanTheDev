@@ -9,15 +9,15 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sudhanb.com.np)
-[![Projects](https://img.shields.io/badge/EXPLORE_MY_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujan-Nepal?tab=repositories)
+[![Projects](https://img.shields.io/badge/EXPLORE_MY_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudhanTheDev?tab=repositories)
 [![Hire Me](https://img.shields.io/badge/AVAILABLE_FOR_FREELANCE-10B981?style=for-the-badge&logo=upwork&logoColor=white)](mailto:sudhanbhattarai2006@gmail.com)
 [![Contact](https://img.shields.io/badge/CONTACT_ME-F59E0B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhanbhattarai2006@gmail.com)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sujan-Nepal&label=Profile%20Views&color=7c3aed&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Sujan-Nepal?style=for-the-badge&color=2563eb&label=Followers)
-![Stars](https://img.shields.io/github/stars/Sujan-Nepal?affiliations=OWNER&style=for-the-badge&color=f59e0b&label=Total%20Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=SudhanTheDev&label=Profile%20Views&color=7c3aed&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/SudhanTheDev?style=for-the-badge&color=2563eb&label=Followers)
+![Stars](https://img.shields.io/github/stars/SudhanTheDev?affiliations=OWNER&style=for-the-badge&color=f59e0b&label=Total%20Stars)
 
 </div>
 
@@ -29,13 +29,13 @@
 
 | 🚀 Projects | 🎨 Designs | 💻 Technologies | ⏳ Learning Hours | 🤝 Availability |
 |:---:|:---:|:---:|:---:|:---:|
-| **25+** | **100+** | **20+** | **1000+** | **Open to Work** |
+| **25+** | **100+** | **25+** | **1000+** | **Open to Work** |
 
 </div>
 
 <div align="center">
 
-[![Developer](https://img.shields.io/badge/Developer-Next.js%20%7C%20C%2B%2B%20%7C%20Qt-7C3AED?style=flat-square)](#-technologies-and-knowledge)
+[![Developer](https://img.shields.io/badge/Developer-Next.js%20%7C%20C%2B%2B%20%7C%20Qt%20%7C%20CMake-7C3AED?style=flat-square)](#-technologies-and-knowledge)
 [![Creative](https://img.shields.io/badge/Creative-Design%20%7C%20Photography%20%7C%20Video-EC4899?style=flat-square)](#-creative-background)
 [![AI](https://img.shields.io/badge/AI-Agents%20%7C%20Voice%20%7C%20Automation-2563EB?style=flat-square)](#-ai-agents-and-automation)
 [![Security](https://img.shields.io/badge/Security-Cybersecurity%20%7C%20Ethical%20Hacking-10B981?style=flat-square)](#-cybersecurity-and-systems)
@@ -46,11 +46,11 @@
 
 ## 👨‍🚀 About Me
 
-<img align="right" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Nepal&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=10" alt="Most Used Languages"/>
+<img align="right" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanTheDev&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=10" alt="Most Used Languages"/>
 
 I am **Sudhan Bhattarai**, a Bachelor in Information Technology student, developer, designer, photographer and technology enthusiast from Nepal.
 
-I enjoy combining **technology, creativity and problem solving** to build websites, desktop applications, academic software, interactive interfaces and AI-powered tools.
+I enjoy combining **technology, creativity and problem solving** to build websites, native Windows applications, collaboration systems, academic software, interactive interfaces and AI-powered tools.
 
 I am currently studying **Bachelor in Information Technology** at **Kuleshwor Awas Campus**, affiliated with **Purbanchal University**.
 
@@ -108,6 +108,7 @@ const sudhan = {
         "Next.js and TypeScript",
         "AI Agent Development",
         "Windows Utilities",
+        "Team Collaboration Software",
         "Cybersecurity Fundamentals",
         "Creative Technology"
     ],
@@ -215,6 +216,16 @@ const sudhan = {
 
 ## 🌟 Featured Projects
 
+<div align="center">
+
+### A selection of my strongest public projects
+
+[![All Repositories](https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudhanTheDev?tab=repositories)
+
+</div>
+
+<br>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -223,7 +234,7 @@ const sudhan = {
 
 ### 🌌 Personal Portfolio
 
-A modern and interactive personal portfolio featuring a futuristic space-inspired design, animated components, custom effects and responsive layouts.
+My main digital showcase—a futuristic, interactive and responsive portfolio that brings together my projects, skills, services and creative work.
 
 <br>
 
@@ -244,12 +255,45 @@ A modern and interactive personal portfolio featuring a futuristic space-inspire
 
 [![Live Website](https://img.shields.io/badge/LIVE_WEBSITE-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sudhanb.com.np)
 
-[![Repository](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujan-Nepal/portfolio)
+[![Repository](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudhanTheDev/My-Portfolio)
 
 </div>
 
 </td>
 
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 👥 TeamSync
+
+A local C++ team collaboration and task-management platform designed for student groups, clubs, development teams and small organizations.
+
+<br>
+
+`Teams and Projects` • `Task Assignment`
+
+`Local Team Chat` • `File Sharing`
+
+`Progress Reports` • `Contribution Tracking`
+
+<br>
+
+![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Architecture-7C3AED?style=flat-square)
+![CMake](https://img.shields.io/badge/CMake-Planned-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square)
+
+<br><br>
+
+[![Repository](https://img.shields.io/badge/VIEW_TEAMSYNC-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudhanTheDev/TeamSync)
+
+</div>
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 <div align="center">
@@ -275,31 +319,29 @@ A native Windows diagnostics, monitoring, cleanup and optimization utility built
 
 <br><br>
 
-[![Repository](https://img.shields.io/badge/VIEW_OPTICORE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujan-Nepal/OptiCore-PC-Doctor)
+[![Repository](https://img.shields.io/badge/VIEW_OPTICORE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudhanTheDev/OptiCore-PC-Doctor)
 
-[![Releases](https://img.shields.io/badge/DOWNLOAD_RELEASE-7C3AED?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/Sujan-Nepal/OptiCore-PC-Doctor/releases)
+[![Releases](https://img.shields.io/badge/DOWNLOAD_RELEASE-7C3AED?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/SudhanTheDev/OptiCore-PC-Doctor/releases)
 
 </div>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 <div align="center">
 
-### 💰 Student Expense Management System
+### 💰 Expense Record System
 
-A C-based console application for recording, editing, deleting, categorizing and calculating student expenses.
+A first-semester BIT console application for recording, editing, deleting, categorizing and calculating student or personal expenses.
 
 <br>
 
-`Add Expenses` • `View Records`
+`Add and View Records` • `Edit and Delete`
 
-`Edit and Delete` • `Category Reports`
+`Category Reports` • `Total Calculation`
 
-`Input Validation` • `File Storage`
+`Input Validation` • `Permanent File Storage`
 
 <br>
 
@@ -310,27 +352,31 @@ A C-based console application for recording, editing, deleting, categorizing and
 
 <br><br>
 
-[![Repositories](https://img.shields.io/badge/EXPLORE_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujan-Nepal?tab=repositories)
+[![Repository](https://img.shields.io/badge/VIEW_EXPENSE_SYSTEM-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudhanTheDev/Expense-Record-System)
+
+[![Download](https://img.shields.io/badge/DOWNLOAD_ZIP-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudhanTheDev/Expense-Record-System/archive/refs/heads/main.zip)
 
 </div>
 
 </td>
+</tr>
+</table>
 
-<td width="50%" valign="top">
+---
+
+## 🚧 Active Project — Personal AI Agent
 
 <div align="center">
 
-### 🤖 Personal AI Agent
+### 🤖 Jarvis and Friday-Inspired Assistant
 
-An ongoing Jarvis and Friday-inspired AI assistant project focused on voice interaction, automation, LLM integration and futuristic interfaces.
+An ongoing AI assistant project focused on voice interaction, LLM integration, automation, computer control and a futuristic floating interface.
 
 <br>
 
-`Voice Commands` • `LLM Integration`
+`Voice Commands` • `LLM Integration` • `Automation`
 
-`Automation` • `File Operations`
-
-`Speech Systems` • `Floating UI`
+`File Operations` • `Speech Systems` • `Floating UI`
 
 <br>
 
@@ -341,13 +387,40 @@ An ongoing Jarvis and Friday-inspired AI assistant project focused on voice inte
 
 <br><br>
 
-![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-F59E0B?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-F59E0B?style=for-the-badge)
 
 </div>
 
-</td>
-</tr>
-</table>
+---
+
+## 👥 TeamSync Development Experience
+
+TeamSync is my current C++ collaboration-system project for organizing teams, projects, tasks, local communication and progress tracking.
+
+The planned application includes:
+
+```text
+👤 User registration, login and role management
+👥 Team creation and membership controls
+📁 Project organization and deadline tracking
+✅ Task assignment, priority and status management
+💬 Local team chat with message history
+📎 Shared-file records and availability checking
+📊 Dashboards, reports and contribution estimates
+🧠 Explainable workload-based member recommendations
+```
+
+Through TeamSync, I am strengthening my knowledge of:
+
+- C++17
+- Object-oriented programming
+- Encapsulation, abstraction, inheritance and polymorphism
+- STL containers and algorithms
+- File handling and local persistence
+- Class architecture and modular design
+- Task, team and project-management logic
+- CMake-based project organization
+- Documentation and development roadmaps
 
 ---
 
@@ -561,6 +634,9 @@ Modular programming
 Version control
 Responsive design
 Component-based architecture
+Object-oriented class architecture
+Team and task-management logic
+STL containers and algorithms
 Environment-variable security
 API integration
 Cloud deployment
@@ -892,13 +968,13 @@ Microsoft PowerPoint
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sujan-Nepal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SudhanTheDev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Sujan-Nepal&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=SudhanTheDev&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
 
 <br><br>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Nepal&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=10" alt="Most Used Languages"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanTheDev&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=10" alt="Most Used Languages"/>
 
 </div>
 
@@ -918,7 +994,7 @@ Microsoft PowerPoint
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Sujan-Nepal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=SudhanTheDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -1009,11 +1085,11 @@ If you like my projects, consider following my GitHub profile and starring the r
 
 <br><br>
 
-[![Follow](https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujan-Nepal)
+[![Follow](https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudhanTheDev)
 
 [![Portfolio](https://img.shields.io/badge/VISIT_MY_PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sudhanb.com.np)
 
-[![Projects](https://img.shields.io/badge/EXPLORE_25%2B_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujan-Nepal?tab=repositories)
+[![Projects](https://img.shields.io/badge/EXPLORE_25%2B_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudhanTheDev?tab=repositories)
 
 </div>
 
@@ -1021,7 +1097,7 @@ If you like my projects, consider following my GitHub profile and starring the r
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&lines=Thanks+for+visiting+my+GitHub+profile+%F0%9F%92%9C;Explore+my+projects+and+follow+my+development+journey+%F0%9F%9A%80;Technology%2C+creativity+and+curiosity+meet+here+%E2%9C%A8;Available+for+projects%2C+freelancing+and+collaboration+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&lines=Thanks+for+visiting+my+GitHub+profile+%F0%9F%92%9C;Explore+TeamSync%2C+OptiCore%2C+my+portfolio+and+more+%F0%9F%9A%80;Technology%2C+creativity+and+curiosity+meet+here+%E2%9C%A8;Available+for+projects%2C+freelancing+and+collaboration+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=165&section=footer&color=gradient&customColorList=6,11,20&animation=fadeIn" alt="Profile Footer"/>
 
